@@ -1,0 +1,56 @@
+a {
+    color: #F05B62;
+}
+
+a:hover, a:focus {
+    color: #8B0036;
+}
+
+body p {
+    font-size: 20px;
+}
+
+h2 {
+    padding: 30px 0;
+}
+
+footer {
+    padding: 4em 0;
+    background-color: #fff;
+    margin-top: 0;
+}
+
+.btn {
+    background-color: #F05B62;
+    border-color: #d85158;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    background-color: #8B0036;
+    border-color: #d85158;
+}
+
+
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    background-color: #F05B62;
+}
+
+ul.nav-pills {
+	width: 140px;
+	margin-top: 20px;
+	border-radius: 4px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+}
+
+ul.nav-pills.affix {
+	top: 20px; /* Set the top position of pinned element */
+}
+
+.fa {
+    padding: 10px;
+}
+
+.fa:hover {
+    color: #8B0036;
+}   
